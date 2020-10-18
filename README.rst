@@ -1,7 +1,8 @@
-Google Ads API Client Library for Python
+Forked Google Ads API Client Library for Python
 ========================================
 
-This project hosts the Python client library for the Google Ads API.
+The only difference is the requirement for python 3.7 is lowered to 3.6 on branch 6.0.0_3.6
+It should work with some caveats: https://github.com/googleads/google-ads-python/issues/319
 
 Build Status
 ------------
